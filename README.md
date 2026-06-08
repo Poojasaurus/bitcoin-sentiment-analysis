@@ -51,3 +51,9 @@ The notebook and analysis were developed assuming the dataset is available local
 ## Business Value
 
 This project demonstrates how sentiment indicators can be integrated with trading data to support market analysis and decision making.
+
+## repository content
+
+-README.md
+-fear_greed_index.csv
+-sentiment_analysis_improved(2).ipyn

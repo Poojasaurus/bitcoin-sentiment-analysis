@@ -34,3 +34,9 @@ Analyze the relationship between Bitcoin Fear & Greed sentiment and trader perfo
 pip install pandas numpy matplotlib seaborn
 jupyter notebook
 ```
+
+## Dataset Note
+
+Due to GitHub file size limitations, the historical_data.csv dataset is not included in this repository.
+
+The notebook and analysis were developed assuming the dataset is available locally. The Fear & Greed dataset is included for reference.

@@ -40,3 +40,14 @@ jupyter notebook
 Due to GitHub file size limitations, the historical_data.csv dataset is not included in this repository.
 
 The notebook and analysis were developed assuming the dataset is available locally. The Fear & Greed dataset is included for reference.
+
+## Key Findings
+
+- Extreme Greed sentiment showed the highest average trader profitability.
+- Trading activity varied significantly across market sentiment regimes.
+- A small group of traders generated a large share of total profits.
+- Coin performance differed under Fear and Greed market conditions.
+
+## Business Value
+
+This project demonstrates how sentiment indicators can be integrated with trading data to support market analysis and decision making.
